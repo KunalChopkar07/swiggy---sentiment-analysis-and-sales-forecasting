@@ -58,7 +58,7 @@ Project Phases:
 ## 4. Insights Generated 📊
 
 1. A detailed examination of the mean price of food items across different cities was conducted. The study focused on prominent cities such as Mumbai, Bangalore,Delhi and other cities, revealing significant insights into the pricing patterns and cost dynamics of the local food industry.
-![image](![Image](https://github.com/user-attachments/assets/538b3dc7-6ff4-4db2-8776-f3b9ab5283ee))
+![image]([![Image](https://github.com/user-attachments/assets/538b3dc7-6ff4-4db2-8776-f3b9ab5283ee)](https://private-user-images.githubusercontent.com/112870943/438091968-538b3dc7-6ff4-4db2-8776-f3b9ab5283ee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU4MjYzOTMsIm5iZiI6MTc0NTgyNjA5MywicGF0aCI6Ii8xMTI4NzA5NDMvNDM4MDkxOTY4LTUzOGIzZGM3LTZmZjQtNGRiMi04Nzc2LWYzYjlhYjUyODNlZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyOFQwNzQxMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZGNkNTlmMzlmNDYwZWNmN2JhYjk2NWU2MGYwZjI0MWJlNjUwNDRmNjVhMWUyZTk2Yjk0MTgxNzM4MDQ3YWEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QlOQCIz_rqS7c33MzGWNbeHriiTKObCUA8cLWKWezAc))
 
 2. In the analysis of Swiggy data, notably Indiranagar and BTM Layout were offering most expensive dishes, whereas the base the price for all of the areas was the same.
 ![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/b1d1726b-6270-4be4-a0fe-eecc5f196053)
