@@ -72,3 +72,14 @@ Project Phases:
 5. A detailed analysis was conducted to explore the relationship between the average rating of restaurants and their pricing across different cities. The study revealed important trends indicating how pricing levels might influence customer ratings and satisfaction within the food delivery ecosystem.
 ![Image](https://github.com/user-attachments/assets/d7f53123-c5ff-44da-a6a1-afc4b3f48b03)
 
+---
+
+# Important Insight
+The analysis of low-rated restaurants in specific areas on Swiggy's platform has revealed a compelling investment insight: targeting areas with a high concentration of low-rated cuisines presents a unique business opportunity. In these regions, there is a clear demand for quality food and prompt delivery services.
+![Image](https://github.com/user-attachments/assets/be85e154-1d8b-458f-8e3c-a608e7419d8d)
+
+
+Investors seeking to enter the food industry could strategically focus on these areas, capitalizing on the gap in customer satisfaction. By establishing a restaurant or food delivery service that prioritizes exceptional food quality and timely deliveries, there is significant potential to capture market share and gain customer loyalty. The existing dissatisfaction among customers in these areas signifies an untapped market eager for improved dining experiences.
+![Image](https://github.com/user-attachments/assets/21a29b96-3c9f-43ce-a1a3-b620e7c5230a)
+
+---
