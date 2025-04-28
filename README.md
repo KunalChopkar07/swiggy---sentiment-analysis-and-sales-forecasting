@@ -58,7 +58,7 @@ Project Phases:
 ## 4. Insights Generated 📊
 
 1. A detailed examination of the mean price of food items across different cities was conducted. The study focused on prominent cities such as Mumbai, Bangalore,Delhi and other cities, revealing significant insights into the pricing patterns and cost dynamics of the local food industry.
-![image](https://github.com/KunalChopkar07/swiggy---sentiment-analysis-and-sales-forecasting/issues/1#issuecomment-2834263670)
+![Image](https://github.com/user-attachments/assets/3e2c30bd-7282-4098-bb78-dd60c0fb24bb)
 
 2. In the analysis of Swiggy data, notably Indiranagar and BTM Layout were offering most expensive dishes, whereas the base the price for all of the areas was the same.
 ![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/b1d1726b-6270-4be4-a0fe-eecc5f196053)
