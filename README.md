@@ -38,10 +38,43 @@ Project Phases:
 
 # _Steps involved in process:_
 
-## 1. Web Scrapping ⛏️
-Automated the extraction of Swiggy reviews, ratings, and order history using Selenium and BeautifulSoup.
+## 1. Data Cleaning 🧹
 
-Developed scripts to mimic user interaction and retrieve dynamically loaded content from the Swiggy platform.
+1. Handling Duplicates and Nulls: Removed duplicates and cleaned missing values to maintain high-quality data.
+2. Standardization: Standardized formats for dates, ratings, review texts, and restaurant names.
+3. Sentiment Labeling: Annotated review texts with sentiment labels (Positive, Negative, Neutral) for downstream analysis.
 
-Ensured a rich, structured dataset covering customer feedback, restaurant details, cuisine information, and ordering patterns. Following is he code for website automation:
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/e3f73b58-9e4b-4400-9de5-a5a70ac8b59c)
+## 2. Sentiment Analysis 📈
+
+1. Used Natural Language Processing (NLP) techniques to classify customer reviews based on sentiment.
+2. Identified trends in customer emotions, common grievances, and factors contributing to positive dining experiences.
+
+## 3. Sales Forecasting 📊
+
+1. Modeled historical order data using ARIMA and Facebook Prophet.
+2. Predicted future order volumes and revenue trends, highlighting expected demand spikes, low seasons, and growth areas.
+3. Generated actionable timelines for marketing campaigns and capacity planning.
+
+## 4. Insights Generated 📊
+
+1. A detailed examination of the mean price of food items across different cities was conducted. The study focused on prominent cities such as Mumbai, Bangalore,Delhi and other cities, revealing significant insights into the pricing patterns and cost dynamics of the local food industry.
+![image]((https://github.com/KunalChopkar07/swiggy---sentiment-analysis-and-sales-forecasting/issues/1#issuecomment-2834255561))
+
+2. In the analysis of Swiggy data, notably Indiranagar and BTM Layout were offering most expensive dishes, whereas the base the price for all of the areas was the same.
+![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/b1d1726b-6270-4be4-a0fe-eecc5f196053)
+
+3. A focus was placed on determining the popularity of different areas based on the number of ratings received by restaurants. Specifically, restaurants with more than 1000 ratings were considered significant indicators of popularity. Through this analysis, several areas emerged as the most popular hubs for dining experiences.
+![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/687b7052-54ec-48ae-b709-ab811866adc2)
+
+4. A correlation study was conducted to explore the relationship between restaurant ratings and delivery times. Surprisingly, the findings revealed a negative correlation between these two variables. This means that, contrary to common expectations, as delivery times increased, restaurant ratings tended to decrease.
+![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/99433bc8-9029-46ae-a360-a1f586de44c5)
+
+5. A specific focus was placed on identifying areas with the highest number of low-rated restaurants, considering ratings below 3.5 as indicators of low customer satisfaction. This criterion allowed for a detailed examination of areas where diners might face disappointing dining experiences.
+![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/d72b3ac3-100c-4f46-a7b9-1bbef86f0a16)
+
+6. A comprehensive examination was conducted to understand the culinary landscape in different areas. The focus was on identifying the most popular cuisines and their distribution across various regions. Interestingly, the research revealed that a select few cuisines dominated the market, with the top 5-6 cuisines collectively constituting more than half of the total market share.
+![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/0b46d2ae-6122-414f-a1da-73c5c411f541)
+
+7. The Swiggy dashboard offers a user-friendly interface providing insights, highlighting areas with low-rated restaurants, and offering detailed cuisine price information. The addition of the area-wise slicer enhances user interactivity, ensuring a personalized and data-driven decision for entity.
+![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/29bb707e-6924-4d3c-b669-f39eff5cb2f6)
+
