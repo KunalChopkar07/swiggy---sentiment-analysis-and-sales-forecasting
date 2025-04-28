@@ -60,21 +60,15 @@ Project Phases:
 1. A detailed examination of the mean price of food items across different cities was conducted. The study focused on prominent cities such as Mumbai, Bangalore,Delhi and other cities, revealing significant insights into the pricing patterns and cost dynamics of the local food industry.
 ![Image](https://github.com/user-attachments/assets/3e2c30bd-7282-4098-bb78-dd60c0fb24bb)
 
-2. In the analysis of Swiggy data, notably Indiranagar and BTM Layout were offering most expensive dishes, whereas the base the price for all of the areas was the same.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/b1d1726b-6270-4be4-a0fe-eecc5f196053)
+2. An in-depth analysis of mean delivery times across various cities revealed that Kolkata, Chennai, and Pune reported the highest average delivery durations. These findings provide valuable perspectives on the factors influencing delivery efficiency and service performance in different urban environments.
+![Image](https://github.com/user-attachments/assets/7fa292e8-a0ec-4dfb-aa87-20a2ab7e82ae)
 
-3. A focus was placed on determining the popularity of different areas based on the number of ratings received by restaurants. Specifically, restaurants with more than 1000 ratings were considered significant indicators of popularity. Through this analysis, several areas emerged as the most popular hubs for dining experiences.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/687b7052-54ec-48ae-b709-ab811866adc2)
+3. A detailed analysis was performed to explore the relationship between delivery time and food prices across different cities. The study revealed that, in general, higher-priced orders tended to have shorter delivery times, suggesting a potential prioritization of premium orders. Conversely, lower-priced orders exhibited greater variability in delivery durations. These findings provide valuable insights into how pricing may influence delivery efficiency and customer experience in the food delivery ecosystem.
+![Image](https://github.com/user-attachments/assets/1e15e31c-ddc6-42da-a690-ded9a21d2450)
 
-4. A correlation study was conducted to explore the relationship between restaurant ratings and delivery times. Surprisingly, the findings revealed a negative correlation between these two variables. This means that, contrary to common expectations, as delivery times increased, restaurant ratings tended to decrease.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/99433bc8-9029-46ae-a360-a1f586de44c5)
+4. A detailed examination of the mean ratings of restaurants across different cities was conducted. The study focused on prominent cities such as Chennai, Bangalore, Hyderabad, and other major cities, revealing significant insights into customer satisfaction patterns and the quality dynamics of the local food industry.
+![Image](https://github.com/user-attachments/assets/1bf37fd5-d29b-4dd8-9439-a90baea26d67)
 
-5. A specific focus was placed on identifying areas with the highest number of low-rated restaurants, considering ratings below 3.5 as indicators of low customer satisfaction. This criterion allowed for a detailed examination of areas where diners might face disappointing dining experiences.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/d72b3ac3-100c-4f46-a7b9-1bbef86f0a16)
-
-6. A comprehensive examination was conducted to understand the culinary landscape in different areas. The focus was on identifying the most popular cuisines and their distribution across various regions. Interestingly, the research revealed that a select few cuisines dominated the market, with the top 5-6 cuisines collectively constituting more than half of the total market share.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/0b46d2ae-6122-414f-a1da-73c5c411f541)
-
-7. The Swiggy dashboard offers a user-friendly interface providing insights, highlighting areas with low-rated restaurants, and offering detailed cuisine price information. The addition of the area-wise slicer enhances user interactivity, ensuring a personalized and data-driven decision for entity.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/29bb707e-6924-4d3c-b669-f39eff5cb2f6)
+5. A detailed analysis was conducted to explore the relationship between the average rating of restaurants and their pricing across different cities. The study revealed important trends indicating how pricing levels might influence customer ratings and satisfaction within the food delivery ecosystem.
+![Image](https://github.com/user-attachments/assets/d7f53123-c5ff-44da-a6a1-afc4b3f48b03)
 
