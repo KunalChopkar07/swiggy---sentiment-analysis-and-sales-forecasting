@@ -88,13 +88,13 @@ Investors seeking to enter the food industry could strategically focus on these 
 This project demonstrates the power of combining sentiment analysis and sales forecasting to drive real-world business decisions.
 By understanding customer emotions and accurately predicting demand patterns, restaurants and Swiggy alike can:
 
-Strategically position offerings,
+  - Strategically position offerings,
 
-Optimize operational efficiency,
+  - Optimize operational efficiency,
 
-Improve customer satisfaction,
+  - Improve customer satisfaction,
 
-And maximize profitability.
+  - And maximize profitability.
 
 It bridges the gap between customer voice and business strategy in the competitive online food delivery market.
 
